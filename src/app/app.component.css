@@ -3,3 +3,20 @@ header{
   display: flex;
   justify-content: center;
 }
+
+.material-icons{
+  font-size: 20px;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+.footer{
+  position: fixed;
+  bottom: 0;
+  display: flex;
+  justify-content: right;
+}
+.footer > span{
+  font-size: 1rem;
+  font-weight: 200;
+}
