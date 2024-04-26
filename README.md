@@ -1,5 +1,5 @@
 # AngularBlog
-Project => [Click Here](https://angular-blog-felipes-projects-8d758913.vercel.app/)
+Project => [Click Here](https://angular-blog-felipes-projects-8d758913.vercel.app/) target_blank
 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.2.
