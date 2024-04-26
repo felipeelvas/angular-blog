@@ -3,7 +3,7 @@ export const dataFake = [
     "id":"1",
     "title": "Studio F Beauty Center",
     "description": "Salão de Beleza e Perfumaria multimarcas...",
-    "photoCover": "http://localhost:4200/assets/img/Captura%20de%20tela%20de%202024-04-22%2019-43-22.png"
+    "photoCover": "https://angular-blog-felipes-projects-8d758913.vercel.app/assets/img/Captura%20de%20tela%20de%202024-04-22%2019-43-22.png"
   },
   {
     "id":"2",
